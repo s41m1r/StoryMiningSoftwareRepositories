@@ -1,0 +1,5 @@
+The requirements for a software to be released are:
+1. functionalities must be developed
+2. the software must be tested
+3. bugs must be fixed
+4. documentation must be compiled
