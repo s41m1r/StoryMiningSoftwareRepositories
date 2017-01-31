@@ -11,6 +11,9 @@ class Model {
   }
   
   void solveA(){
+    if(running_time>10)
+      return false;
+    else return true;
   }
   
   void solveB(){
