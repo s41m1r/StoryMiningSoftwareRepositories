@@ -1,2 +1,4 @@
 The software must solve the problems:
 A, B, C, X, Y, Z.
+
+Method A must be solved in not more that 10 seconds of time.
