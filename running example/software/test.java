@@ -15,4 +15,8 @@ class Test{
     //test 2    
   }
   
+  void test3(){
+    //add further test
+  }
+  
 }
