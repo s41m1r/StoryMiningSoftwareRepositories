@@ -9,5 +9,23 @@ class Model {
     this.x = x;
     this.y = y;
   }
+  
+  void solveA(){
+  }
+  
+  void solveB(){
+  }
+  
+  void solveC(){
+  }
+  
+  void solveX(){
+  }
+  
+  void solveY(){
+  }
+  
+  void solveZ(){
+  }
 
 }
