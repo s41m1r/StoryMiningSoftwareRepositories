@@ -3,3 +3,5 @@ The requirements for a software to be released are:
 2. the software must be tested
 3. bugs must be fixed
 4. documentation must be compiled
+
+The requirements will be checked systematically.
