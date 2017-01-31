@@ -2,3 +2,5 @@ The software must solve the problems
 X
 Y
 Z
+
+And the problems A, B, and C.
