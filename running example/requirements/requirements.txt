@@ -1,0 +1,4 @@
+The software must solve the problems
+X
+Y
+Z
