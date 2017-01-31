@@ -1,6 +1,2 @@
-The software must solve the problems
-X
-Y
-Z
-
-And the problems A, B, and C.
+The software must solve the problems:
+A, B, C, X, Y, Z.
