@@ -41,6 +41,31 @@ class Model {
     else return true;
   }
   
+  
+  void solveB1(){
+    //now i do method B
+     if(running_time>=10)
+      return false;
+    else return true;
+     if(running_time>=10)
+      return false;
+    else return true;
+     if(running_time>=10)
+      return false;
+    else return true; if(running_time>=10)
+      return false;
+    else return true; if(running_time>=10)
+      return false;
+    else return true; if(running_time>=10)
+      return false;
+    else return true; if(running_time>=10)
+      return false;
+    else return true;
+     if(running_time>=10)
+      return false;
+    else return true;
+  }
+  
   void solveC(){
   }
   
